@@ -1,0 +1,178 @@
+[
+    {
+        "title": "How to Become a Programmer",
+        "category": "beginners",
+        "author": "Jhankar Mahbub",
+        "date": "19-12-2022",
+        "description": "Some will say, watch YouTube tutorials. Others might say, read those books. Someone else may say, read blogs on that website blogs on that website.",
+        "imgUrl": "https://i.ibb.co/c3SDHn4/conding4-1.jpg"
+    },
+    {
+        "title": "Programming for Beginners",
+        "category": "beginners",
+        "author": "Jhankar Mahbub",
+        "date": "19-12-2022",
+        "description": "Some will say, watch YouTube tutorials. Others might say, read those books. Someone else may say, read blogs on that website blogs on that website.",
+        "imgUrl": "https://i.ibb.co/c3SDHn4/conding4-1.jpg"
+    },
+    {
+        "title": "Why Avoiding Programming Is Bad for Your Business?",
+        "category": "beginners",
+        "author": "Jhankar Mahbub",
+        "date": "19-12-2022",
+        "description": "Some will say, watch YouTube tutorials. Others might say, read those books. Someone else may say, read blogs on that website blogs on that website.",
+        "imgUrl": "https://i.ibb.co/c3SDHn4/conding4-1.jpg"
+    },
+    {
+        "title": "Life Lessons From a Self Taught Programmer",
+        "category": "beginners",
+        "author": "Jhankar Mahbub",
+        "date": "19-12-2022",
+        "description": "Some will say, watch YouTube tutorials. Others might say, read those books. Someone else may say, read blogs on that website blogs on that website.",
+        "imgUrl": "https://i.ibb.co/c3SDHn4/conding4-1.jpg"
+    },
+    {
+        "title": "Life Lessons From a Self Taught Programmer",
+        "category": "python",
+        "author": "Jhankar Mahbub",
+        "date": "19-12-2022",
+        "description": "Some will say, watch YouTube tutorials. Others might say, read those books. Someone else may say, read blogs on that website blogs on that website.",
+        "imgUrl": "https://i.ibb.co/c3SDHn4/conding4-1.jpg"
+    },
+    {
+        "title": "Learn Python In A Week",
+        "category": "python",
+        "author": "Jhankar Mahbub",
+        "date": "19-12-2022",
+        "description": "Some will say, watch YouTube tutorials. Others might say, read those books. Someone else may say, read blogs on that website blogs on that website.",
+        "imgUrl": "https://i.ibb.co/c3SDHn4/conding4-1.jpg"
+    },
+    {
+        "title": "How Can I Make Learning Python Fun?",
+        "category": "python",
+        "author": "Jhankar Mahbub",
+        "date": "19-12-2022",
+        "description": "Some will say, watch YouTube tutorials. Others might say, read those books. Someone else may say, read blogs on that website blogs on that website.",
+        "imgUrl": "https://i.ibb.co/c3SDHn4/conding4-1.jpg"
+    },
+    {
+        "title": "How long does it take to learn Python?",
+        "category": "python",
+        "author": "Jhankar Mahbub",
+        "date": "19-12-2022",
+        "description": "Some will say, watch YouTube tutorials. Others might say, read those books. Someone else may say, read blogs on that website blogs on that website.",
+        "imgUrl": "https://i.ibb.co/c3SDHn4/conding4-1.jpg"
+    },
+    {
+        "title": "Is Python Enough To Get A Job?",
+        "category": "python",
+        "author": "Jhankar Mahbub",
+        "date": "19-12-2022",
+        "description": "Some will say, watch YouTube tutorials. Others might say, read those books. Someone else may say, read blogs on that website blogs on that website.",
+        "imgUrl": "https://i.ibb.co/c3SDHn4/conding4-1.jpg"
+    },
+    {
+        "title": "Developing a JavaScript From Validator",
+        "category": "javascript",
+        "author": "Jhankar Mahbub",
+        "date": "19-12-2022",
+        "description": "Some will say, watch YouTube tutorials. Others might say, read those books. Someone else may say, read blogs on that website blogs on that website.",
+        "imgUrl": "https://i.ibb.co/c3SDHn4/conding4-1.jpg"
+    },
+    {
+        "title": "Things You Should Know Before Learning JavaScript Frameworks",
+        "category": "javascript",
+        "author": "Jhankar Mahbub",
+        "date": "19-12-2022",
+        "description": "Some will say, watch YouTube tutorials. Others might say, read those books. Someone else may say, read blogs on that website blogs on that website.",
+        "imgUrl": "https://i.ibb.co/c3SDHn4/conding4-1.jpg"
+    },
+    {
+        "title": "React Chrome Developer Tools",
+        "category": "reactjs",
+        "author": "Jhankar Mahbub",
+        "date": "19-12-2022",
+        "description": "Some will say, watch YouTube tutorials. Others might say, read those books. Someone else may say, read blogs on that website blogs on that website.",
+        "imgUrl": "https://i.ibb.co/c3SDHn4/conding4-1.jpg"
+    },
+    {
+        "title": "Preparing for the Future with React Prereleases",
+        "category": "reactjs",
+        "author": "Jhankar Mahbub",
+        "date": "19-12-2022",
+        "description": "Some will say, watch YouTube tutorials. Others might say, read those books. Someone else may say, read blogs on that website blogs on that website.",
+        "imgUrl": "https://i.ibb.co/c3SDHn4/conding4-1.jpg"
+    },
+    {
+        "title": "How to Upgrade to React 18",
+        "category": "reactjs",
+        "author": "Jhankar Mahbub",
+        "date": "19-12-2022",
+        "description": "Some will say, watch YouTube tutorials. Others might say, read those books. Someone else may say, read blogs on that website blogs on that website.",
+        "imgUrl": "https://i.ibb.co/c3SDHn4/conding4-1.jpg"
+    },
+    {
+        "title": "Introducing Zero-Bundle-Size React Server Components",
+        "category": "reactjs",
+        "author": "Mir Hossin",
+        "date": "19-12-2022",
+        "description": "Some will say, watch YouTube tutorials. Others might say, read those books. Someone else may say, read blogs on that website blogs on that website.",
+        "imgUrl": "https://i.ibb.co/c3SDHn4/conding4-1.jpg"
+    },
+    {
+        "title": "React Labs: What We've Been Working On - June 2022",
+        "category": "reactjs",
+        "author": "Jhankar Mahbub",
+        "date": "19-12-2022",
+        "description": "Some will say, watch YouTube tutorials. Others might say, read those books. Someone else may say, read blogs on that website blogs on that website.",
+        "imgUrl": "https://i.ibb.co/c3SDHn4/conding4-1.jpg"
+    },
+    {
+        "title": "Introducing Create Next App",
+        "category": "nextjs",
+        "author": "Jhankar Mahbub",
+        "date": "19-12-2022",
+        "description": "Some will say, watch YouTube tutorials. Others might say, read those books. Someone else may say, read blogs on that website blogs on that website.",
+        "imgUrl": "https://i.ibb.co/c3SDHn4/conding4-1.jpg"
+    },
+    {
+        "title": "Building Forms with Next.js",
+        "category": "nextjs",
+        "author": "Jhankar Mahbub",
+        "date": "19-12-2022",
+        "description": "Some will say, watch YouTube tutorials. Others might say, read those books. Someone else may say, read blogs on that website blogs on that website.",
+        "imgUrl": "https://i.ibb.co/c3SDHn4/conding4-1.jpg"
+    },
+    {
+        "title": "Incrementally Adopting Next.js",
+        "category": "nextjs",
+        "author": "Jhankar Mahbub",
+        "date": "19-12-2022",
+        "description": "Some will say, watch YouTube tutorials. Others might say, read those books. Someone else may say, read blogs on that website blogs on that website.",
+        "imgUrl": "https://i.ibb.co/c3SDHn4/conding4-1.jpg"
+    },
+    {
+        "title": "Markdown/MDX with Next.js",
+        "category": "nextjs",
+        "author": "Mir Hossin",
+        "date": "19-12-2022",
+        "description": "Some will say, watch YouTube tutorials. Others might say, read those books. Someone else may say, read blogs on that website blogs on that website.",
+        "imgUrl": "https://i.ibb.co/c3SDHn4/conding4-1.jpg"
+    },
+    {
+        "title": "Styling Next.js with Styled JSX",
+        "category": "nextjs",
+        "author": "Mir Hossin",
+        "date": "19-12-2022",
+        "description": "Some will say, watch YouTube tutorials. Others might say, read those books. Someone else may say, read blogs on that website blogs on that website.",
+        "imgUrl": "https://i.ibb.co/c3SDHn4/conding4-1.jpg"
+    },
+    {
+        "title": "Next.js 8 Webpack Memory Improvements",
+        "category": "nextjs",
+        "author": "Mir Hossin",
+        "date": "19-12-2022",
+        "description": "Some will say, watch YouTube tutorials. Others might say, read those books. Someone else may say, read blogs on that website blogs on that website.",
+        "imgUrl": "https://i.ibb.co/c3SDHn4/conding4-1.jpg"
+    }
+]
