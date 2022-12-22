@@ -32,7 +32,7 @@ const AddBlog = () => {
                     const image = data.data.url
 
                     // post data database
-                    fetch('http://localhost:5000/blog', {
+                    fetch('https://infoprogramming-server-side.onrender.com/blog', {
                         method: "POST",
                         headers: {
                             "content-type": "application/json",

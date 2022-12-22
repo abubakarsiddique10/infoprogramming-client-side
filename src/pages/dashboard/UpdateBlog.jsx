@@ -6,7 +6,7 @@ const UpdateBlog = () => {
 
     const { author, title, description, date, imgUrl, category, _id } = blog
     useEffect(() => {
-        fetch(`http://localhost:5000/blogs/${id}`)
+        fetch(`https://infoprogramming-server-side.onrender.com/blogs/${id}`)
             .then(res => res.json())
             .then(blog => setBlog(blog))
     }, []);
@@ -28,7 +28,7 @@ const UpdateBlog = () => {
             .then(img => {
                 if (img.success) {
                     console.log(img)
-                    fetch(`http://localhost:5000/blog/${_id}`, {
+                    fetch(`https://infoprogramming-server-side.onrender.com/blog/${_id}`, {
                         method: "PATCH",
                         headers: {
                             "content-type": "application/json"

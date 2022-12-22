@@ -8,7 +8,7 @@ const BlogDetails = () => {
     const { id } = useParams();
     const [blog, setBlog] = useState({})
     useEffect(() => {
-        fetch(`http://localhost:5000/blogs/${id}`)
+        fetch(`https://infoprogramming-server-side.onrender.com/blogs/${id}`)
             .then(res => res.json())
             .then(blog => setBlog(blog))
     }, [])

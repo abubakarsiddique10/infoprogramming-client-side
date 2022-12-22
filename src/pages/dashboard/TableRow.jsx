@@ -9,7 +9,7 @@ const TableRow = ({ blog }) => {
     const { author, title, date, _id } = blog;
 
     const handleClick = (id) => {
-        fetch('http://localhost:5000/blog', {
+        fetch('https://infoprogramming-server-side.onrender.com/blog', {
             method: "DELETE",
             headers: {
                 "content-type": "application/json"
